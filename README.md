@@ -6,7 +6,7 @@
 
 ### What I'm using ? 🛠     
 
-I prefer React & React Native for web/mobile front-end development.
+I prefer React  for web front-end development.
 <br/>
 
 - Python, HTML5, CSS3, Git, GitHub,React,Bootstrap,Sass
@@ -15,37 +15,27 @@ I prefer React & React Native for web/mobile front-end development.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/yilmaz-selcuk/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
+-  You can reach me via email:yilmax4@gmail.com
 
 ## 🚀 Skills
-<p>
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a>  
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a>  -->
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
-<!--   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="50"/> </a>  -->
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160834121-9010f1e6-3725-4c4e-8977-856e1682e0d4.png" alt="gitHub" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
-</p>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 
 
-## 📈 Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcuk-yilmaz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+
 
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
@@ -53,6 +43,10 @@ I prefer React & React Native for web/mobile front-end development.
 [Fireblog-mile](https://fireblog-mile.vercel.app/)|React,Context,Firebase Authentication, Firebase database, Firebase (collection, getDocs, addDoc,  deleteDoc, doc, updateDoc,), Mui, React-icons |![fireblog_mile](https://user-images.githubusercontent.com/99830247/183303896-7f36ba48-86ae-4902-8a5f-4aca46304e90.gif)|
 [fireContact-realtime]|React,Firebase Realtime Database|[gif gelecek]
 
-
+## 📈 Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selcuk-yilmaz&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcuk-yilmaz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
