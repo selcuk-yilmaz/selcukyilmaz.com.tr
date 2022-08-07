@@ -37,7 +37,8 @@ I prefer React  for web front-end development.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 
 
-## My projects
+## :star2: My Projects:
+## With React
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Fireblog-mile](https://fireblog-mile.vercel.app/)|React,Context,Firebase Authentication, Firebase database, Firebase (collection, getDocs, addDoc,  deleteDoc, doc, updateDoc,), Mui, React-icons |![fireblog_mile](https://user-images.githubusercontent.com/99830247/183303896-7f36ba48-86ae-4902-8a5f-4aca46304e90.gif)|
