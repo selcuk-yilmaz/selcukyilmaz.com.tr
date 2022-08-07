@@ -50,4 +50,4 @@ I prefer React & React Native for web/mobile front-end development.
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Firebase Contact App]|React, firebase database, firebase (collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |[deneme gif gelecek]
+[Fireblog-mile]|React, firebase database, firebase (collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Mui, React-icons |[deneme gif gelecek]
