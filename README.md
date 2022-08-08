@@ -42,7 +42,7 @@ I prefer React  for web front-end development.
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Fireblog-mile](https://fireblog-mile.vercel.app/)|React,Context,Firebase Authentication, Firebase database, Firebase (collection, getDocs, addDoc,  deleteDoc, doc, updateDoc,), Mui, React-icons |![fireblog_mile](https://user-images.githubusercontent.com/99830247/183303896-7f36ba48-86ae-4902-8a5f-4aca46304e90.gif)|
-[fireContact-realtime](https://firecontact-realtime.netlify.app/)|Firebase realtime,Toastify,Components,Authentication with .env,MUI,Crud Events|![firecontact_realtime](https://user-images.githubusercontent.com/99830247/183311236-1c9ef92c-44ce-4db7-b8b4-affab17e1ce2.gif)|
+[fireContact-realtime](https://firecontact-realtime.netlify.app/)|React,Firebase realtime,Toastify,Components,Authentication with .env,MUI,Crud Events|![firecontact_realtime](https://user-images.githubusercontent.com/99830247/183311236-1c9ef92c-44ce-4db7-b8b4-affab17e1ce2.gif)|
 
 ## 📈 Statistics
 <p align="center">
