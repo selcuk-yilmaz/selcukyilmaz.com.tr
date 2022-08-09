@@ -49,6 +49,7 @@ I prefer React  for web front-end development.
 [tourplaces](https://tourplaces-popular.netlify.app/)|React,React-dom,Sass|![tourplaces](https://user-images.githubusercontent.com/99830247/183637122-c0d984f1-44b6-4eb5-9e89-b8571f244b6e.gif)|
 [languagecardsWithReact](https://languages-cards.netlify.app/)|React,css|![languageCardsWithReact](https://user-images.githubusercontent.com/99830247/183673113-e9f202fa-3bf8-4b36-b460-a5aa04895118.gif)|
 [randomuser](https://random-userscard.netlify.app/)|React,Bootstrap,Axios,Random api|![randomuser](https://user-images.githubusercontent.com/99830247/183725659-15861603-0f1e-4772-af3f-119c55752343.gif)|
+[add-your-duty](https://add-your-duty.netlify.app/)| React,Bootstrap,Axios,API|![add-your-duty](https://user-images.githubusercontent.com/99830247/183735594-87817b56-ac7e-495c-9ae6-46d48c3e11b9.gif)|
 
 
 
