@@ -47,6 +47,7 @@ I prefer React  for web front-end development.
 [recipe-app-meal](https://recipe-app-meals.netlify.app/)|React,React Router,PrivateRouter,Styled Component,ThemeProvider,Axios,Async Await|![recipe-app-meal](https://user-images.githubusercontent.com/99830247/183442573-ca6cbcd9-7a7c-4fa7-b963-d6a216c29412.gif)|
 [taskTracker](https://tasktracker-to-do.netlify.app/)|React,React-dom,Crud Events,Bootstrap,React-icons|![taskTracker](https://user-images.githubusercontent.com/99830247/183612573-8377f07f-8fe0-4841-b597-3fe7ca9c520d.gif)|
 [tourplaces](https://tourplaces-popular.netlify.app/)|React,React-dom,Sass|![tourplaces](https://user-images.githubusercontent.com/99830247/183637122-c0d984f1-44b6-4eb5-9e89-b8571f244b6e.gif)|
+[languagecardsWithReact](https://languages-cards.netlify.app/)|React,css|![languageCardsWithReact](https://user-images.githubusercontent.com/99830247/183673113-e9f202fa-3bf8-4b36-b460-a5aa04895118.gif)
 
 
 
