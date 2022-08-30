@@ -41,6 +41,7 @@ I prefer React  for web front-end development.
 ## With React
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[news-redux-thunk-api]|react,Redux,Firebase Authentication|![news-redux-thunk-API](https://user-images.githubusercontent.com/99830247/187337241-4d7fe24d-5131-435b-8081-ffdf98a4737e.gif)|
 [Fireblog-mile](https://fireblog-mile.vercel.app/)|React,Context,Firebase Authentication,Firebase database(collection, getDocs, addDoc,  deleteDoc, doc, updateDoc,), Mui,React icons|![fireblog_mile](https://user-images.githubusercontent.com/99830247/183303896-7f36ba48-86ae-4902-8a5f-4aca46304e90.gif)|
 [fireContact-realtime](https://firecontact-realtime.netlify.app/)|React,Firebase realtime,Toastify Components,MUI,Crud Events|![firecontact_realtime](https://user-images.githubusercontent.com/99830247/183311236-1c9ef92c-44ce-4db7-b8b4-affab17e1ce2.gif)|
 [movie-app-firebase](https://movie-app-firebaseauthentication.netlify.app/)|React(Router),Firebase Authentication, Bootstrap,.get process from API with Axios|![firecontact_realtime](https://user-images.githubusercontent.com/99830247/183397278-50be90fe-bd99-4aae-8075-c86552b5d882.gif)|
