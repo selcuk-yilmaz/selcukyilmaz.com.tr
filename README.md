@@ -9,7 +9,7 @@
 I prefer React  for web front-end development.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub,React,Bootstrap,Sass
+-  HTML5, CSS3,JS,REACT, Git, GitHub,Bootstrap,Sass,MUI,
 
 - 💬 Ask  me about anything that you want to learn
 
