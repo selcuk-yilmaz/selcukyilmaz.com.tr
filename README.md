@@ -43,7 +43,7 @@ I prefer React  for web front-end development.
 ## With React
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[amr_industrial_robots]|react,nodejs,ros2|![homePage](https://github.com/selcuk-yilmaz/amr_industrial_robots/assets/99830247/d49d63ec-76e1-4230-a853-abb506f79c9e)|
+[amr_industrial_robots](https://github.com/selcuk-yilmaz/amr_industrial_robots)|react,nodejs,ros2|![homePage](https://github.com/selcuk-yilmaz/amr_industrial_robots/assets/99830247/d49d63ec-76e1-4230-a853-abb506f79c9e)|
 [news-redux-thunk-api](https://user-images.githubusercontent.com/99830247/187337241-4d7fe24d-5131-435b-8081-ffdf98a4737e.gif)|react,Redux,Firebase Authentication,news api not free|![news-redux-thunk-API](https://user-images.githubusercontent.com/99830247/187337241-4d7fe24d-5131-435b-8081-ffdf98a4737e.gif)|
 [Fireblog-mile](https://fireblog-mile.vercel.app/)|React,Context,Firebase Authentication,Firebase database(collection, getDocs, addDoc,  deleteDoc, doc, updateDoc,), Mui,React icons|![fireblog_mile](https://user-images.githubusercontent.com/99830247/183303896-7f36ba48-86ae-4902-8a5f-4aca46304e90.gif)|
 [fireContact-toolkits-redux](https://firecontact-toolkits.netlify.app/)|React(Router),Firebase firestore Database,Bootstrap,Redux toolkits|![firecontact-toolkits-redux](https://user-images.githubusercontent.com/99830247/191945119-4ecc9b4a-e512-46e5-9c92-8d5ff2257702.gif)|
