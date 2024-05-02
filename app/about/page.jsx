@@ -226,8 +226,8 @@ const AboutPage = () => {
                 {/* LEFT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Senior JavaScript Engineer
+                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg text-black">
+                    React Developer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
@@ -236,11 +236,11 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2024 - Present
+                    2023 - Present
                   </div>
                   {/* JOB COMPANY */}
-                  <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Apple
+                  <div className="p-1 rounded bg-white text-sm font-semibold w-fit text-black">
+                    Worknight Studios
                   </div>
                 </div>
                 {/* CENTER */}
@@ -269,21 +269,20 @@ const AboutPage = () => {
                 {/* RIGHT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Senior React Developer
+                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg text-black">
+                    React Developer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                    I spearheaded React-based application development,
-                    leveraging advanced skills.{" "}
+                    What would a robot interface look like in a React-based application? I realized the front-end side of the robot interface.{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2019 - 2024{" "}
+                    2022 - 2023{" "}
                   </div>
                   {/* JOB COMPANY */}
-                  <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Microsoft
+                  <div className="p-1 rounded bg-white text-sm font-semibold w-fit text-black">
+                    Epik Robotik
                   </div>
                 </div>
               </div>
@@ -292,7 +291,7 @@ const AboutPage = () => {
                 {/* LEFT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
+                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg text-black">
                     Freelancer{" "}
                   </div>
                   {/* JOB DESC */}
@@ -302,7 +301,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2010 - 2019{" "}
+                    2020 - 2022{" "}
                   </div>
                 </div>
                 {/* CENTER */}
