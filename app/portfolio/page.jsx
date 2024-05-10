@@ -11,7 +11,7 @@ const items = [
     title: "Dream Table",
     desc: "Roll20 is in the virtual tabletop category. A virtual tabletop (VTT) is an online application that allows people to play tabletop role-playing games in a shared digital space. Virtual tabletops can be used for all sorts of tabletop RPGs, including Dungeons and Dragons.",
     img: "/portfolioImages/dreamtable_1.png",
-    link: "https://lama.dev",
+    link: "https://dreamtable.online/",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const items = [
     title: "Vanilla Book App",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     img: "/portfolioImages/dreamtable_3.png",
-    link: "https://lama.dev",
+    link: "https://fireblog-mile.vercel.app/",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const items = [
     title: "Spotify Music App",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     img: "/portfolioImages/dreamtable_4.png",
-    link: "https://lama.dev",
+    link: "https://recipe-app-meals.netlify.app/",
   },
 ];
 
@@ -98,9 +98,9 @@ const PortfolioPage = () => {
                 d="M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "
               />
             </defs>
-            <text fill="#000">
+            <text fill="#15736e">
               <textPath xlinkHref="#circlePath" className="text-xl">
-                Front-end Developer and UI Designer
+              Front-end Developer   Front-end Developer
               </textPath>
             </text>
           </motion.svg>
