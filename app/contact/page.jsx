@@ -20,7 +20,9 @@ const ContactPage = () => {
         process.env.NEXT_PUBLIC_SERVICE_ID,
         process.env.NEXT_PUBLIC_TEMPLATE_ID,
         form.current,
-        process.env.NEXT_PUBLIC_PUBLIC_KEY
+        {
+          publicKey: process.env.NEXT_PUBLIC_PUBLIC_KE,
+        }
       )
       .then(
         () => {
@@ -76,7 +78,7 @@ const ContactPage = () => {
           <span>My mail address is:</span>
           <input
             name="user_email"
-            type="text"
+            type="email"
             className="bg-transparent border-b-2 border-b-black outline-none"
           />
           <span>Regards</span>
