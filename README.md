@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-![dreamtableUser](https://github.com/selcuk-yilmaz/dreamTable_worknightStudios/assets/99830247/f98503d9-cb40-4246-ac17-0140bfd89eff)
+
+![dreamTable](https://github.com/user-attachments/assets/3025250b-aceb-4403-899c-0c3ce791215b)
 
 ## Getting Started
 
